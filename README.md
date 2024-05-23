@@ -1,7 +1,7 @@
 
-# ft_transcendence
+# PingPongBattle
 
-ft_transcendence is a project aimed at creating a multiplayer online pong game platform with a focus on real-time gameplay. The project is the last of the 42 school common core projects.
+PingPongBattle is a project aimed at creating a multiplayer online pong game platform with a focus on real-time gameplay. The project is the last of the 42 school common core projects.
 
 
 ## Features
@@ -13,7 +13,7 @@ ft_transcendence is a project aimed at creating a multiplayer online pong game p
 
 ## Installation
 
-the project require an .env file in the root directory there is an empty env sample you can use.
+the project requires a .env file in the root directory there is an empty env sample you can use.
 
 1 - build the app with docker-compose
 ```bash
